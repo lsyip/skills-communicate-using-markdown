@@ -1,1 +1,3 @@
-# This is an H1 size header
+# This is Yaktocat!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
